@@ -1,0 +1,18 @@
+Qunit Notes
+===========
+
+ok(state, message)
+equal(actual, expected, message)
+notEqual(actual, expected, message)
+deepEqual(actual, expected, message)
+notDeepEqual(actual, expected, message)
+strictEqual(actual, expected, message) - defaul equal comparision
+
+Jasmine Notes
+=============
+
+Mocha Notes
+===========
+
+Mocking in JS
+=============
